@@ -44,7 +44,7 @@
   }
   #app-mount .sidebar-1tnWFu>.privateChannels-oVe7HL:hover,
   #app-mount .sidebar-1tnWFu>.container-1NXEtd:hover {
-    width: 240px;
+    width: 260px;
   }
   #app-mount .container-6sXIoE.withTimeline-824fT_,
   #app-mount .container-6sXIoE .bar-g2ZMIm {
@@ -53,7 +53,7 @@
   }
   #app-mount .sidebar-1tnWFu .container-6sXIoE.withTimeline-824fT_:hover,
   #app-mount .sidebar-1tnWFu .container-6sXIoE:hover .bar-g2ZMIm {
-    width: 240px;
+    width: 260px;
   }
   .container-6sXIoE:hover .gameIconWrapper-zXQ03M {
     margin-left: 0px;
@@ -68,7 +68,7 @@
     transition: width 0.5s;
   }
   #app-mount .sidebar-1tnWFu:hover {
-    width: 240px;
+    width: 260px;
   }
   #app-mount .container-6sXIoE.withTimeline-824fT_,
   #app-mount .container-6sXIoE .bar-g2ZMIm {
@@ -77,7 +77,7 @@
   }
   #app-mount .sidebar-1tnWFu:hover .container-6sXIoE.withTimeline-824fT_,
   #app-mount .sidebar-1tnWFu:hover .container-6sXIoE .bar-g2ZMIm {
-    width: 240px;
+    width: 260px;
   }
   .sidebar-1tnWFu:not(:hover) .barText-lmqc5O :first-child {
     margin-left: -5px;
@@ -90,7 +90,7 @@
   }
   .sidebar-1tnWFu:hover .panels-3wFtMD .container-YkUktl .avatarWrapper-1B9FTW,
   .sidebar-1tnWFu:hover .gameIconWrapper-zXQ03M {
-    margin-left: 0px;
+    margin-left: 6px;
   }
 }
 .sidebar-1tnWFu:not(:hover) .voiceUserSummary-huJ8Md > .container-1jha_j > .icon-3akWb2 ~ *,
@@ -117,7 +117,7 @@
 .gameIconWrapper-zXQ03M {
   margin-left: 6px;
   transition: margin-left 0.3s;
-  margin-right: 0;
+  margin-right: 6px;
 }
 .panels-3wFtMD .container-YkUktl .avatarWrapper-1B9FTW {
   width: 100%;
@@ -215,7 +215,7 @@
     transition: width .5s;
   }
   #app-mount .panels-3wFtMD .wrapper-3Hk9OB:hover {
-    width: 240px;
+    width: 260px;
   }
   .panels-3wFtMD > .container-YkUktl > .flex-2S1XBF {
     border-radius: 18px;
